@@ -1,16 +1,36 @@
-# React + Vite
+# Inventory Manager (MERN CRUD App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack **Inventory Management System** built using the **MERN stack**.  
+This application allows users to **add, view, update, and delete inventory items** with a clean and minimal user interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- Create new inventory items  
+- View all items in a structured table  
+- Update existing item details  
+- Delete items from inventory  
+- Responsive and clean UI  
+- RESTful API architecture  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+- React (Vite)
+- HTML5
+- CSS3
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+---
+
+## 📂 Project Structure
+
