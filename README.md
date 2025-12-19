@@ -32,5 +32,27 @@ This application allows users to **add, view, update, and delete inventory items
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🔗 API Endpoints
+
+| Method | Endpoint        | Description            |
+|------:|-----------------|------------------------|
+| GET   | `/items`        | Get all items          |
+| POST  | `/items`        | Add new item           |
+| PUT   | `/items/:id`    | Update item            |
+| DELETE| `/items/:id`    | Delete item            |
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/inventory-manager.git
+cd inventory-manager
+cd client
+npm install
+npm run dev
 
